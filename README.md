@@ -10,16 +10,16 @@ Kotler and Keller define a market segment as a group of customers	who share simi
 The idea behind this project is to deal with real-life grouping of customers to handle: the search for new customers.
 The main idea of this project is to find similarities between people who are currently customers. Then, use this information to advise the bank on how to  find potential customers (people who are not currently customers but have high similarities with people who are).
 
-**Problem Statement **
+**Problem Statement**
 
 Difficulty in understanding how the various characteristics of the bank’s customers influence their chances of loan defaulting 
 Gap in understanding how the different characteristics of the customers relate and how the bank can mine information to streamline its marketing strategy to specific customer segments.
 
-**Proposed Solution
+**Proposed Solution**
 
 We aim to come up with a machine learning model that can effectively analyze our data and detect whether a customer will default on loan repayments based on several characteristics such as their income, age,their education level and other factors.
 
-**BUSINESS OBJECTIVES
+**BUSINESS OBJECTIVES**
 
 **Overall objective**
 
