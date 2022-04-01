@@ -1,6 +1,6 @@
 # Customer_Segmentation-KMeans
 
-**BUSINESS UNDERSTANDING **
+**BUSINESS UNDERSTANDING** 
 
 Customer segmentation is the process of grouping customers together based on common characteristics. These customer groups are beneficial in marketing campaigns, in identifying potentially profitable customers, and in developing customer loyalty.
 Kotler and Keller define a market segment as a group of customers	who share similar sets of needs and wants.A customer segment could be a cohort of people belonging to the same age group,gender ,geographical region showcasing affinity towards a certain type of a product,service or price range.
