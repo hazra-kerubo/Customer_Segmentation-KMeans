@@ -21,11 +21,11 @@ We aim to come up with a machine learning model that can effectively analyze our
 
 **BUSINESS OBJECTIVES
 
-**Overall objective **
+**Overall objective**
 
 Identify potential customers as a result of analyzing customer behavior regarding their income,debt income ratio and their default status.
 
-**Specific objectives ** 
+**Specific objectives** 
 
 Tailor products  and services specific to customers  
 Segmentation helps us better understand our customers and their various needs and wants.
@@ -52,10 +52,11 @@ Defaulted-Whether customer paid or did not pay the loan
 Address-The residence of the customer
 DebtIncome ratio-Is the percentage of gross monthly income that goes to paying monthly debt payments.
 
-**Conclusions
+**Conclusions**
 
 With the help of clustering, we can understand the variables much better, prompting us to make careful decisions. With the identification of customers,companies can release products and services that target customers based on several parameters. 
-**The following observations were made :
+
+**The following observations were made**
 
 1. Customers with lower income have more card debt as compared to customers with higher income
 2. Customers with lower income have more 'other debt' as compared to customers with higher income
@@ -68,7 +69,7 @@ With the help of clustering, we can understand the variables much better, prompt
 9. There is no correlation between debt income ratio and income, experience and age
 10. There is a positive correlation between income and age, experience and debt (credit and other debt)
 
- ** RECOMMENDATIONS
+ **RECOMMENDATIONS**
  
 1. Advice the bank to be careful when loaning customers below 40 years ,because there is a  higher credit risk in that age bracket.
 2. Advise the  bank to establish  more services that would target customers above 40 years because they earn more and they have lower default rate.
