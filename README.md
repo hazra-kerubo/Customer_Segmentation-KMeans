@@ -76,6 +76,12 @@ With the help of clustering, we can understand the variables much better, prompt
 3. Advise banks to encourage customers below 40 years who have high default rates to form group banking(merry go round chamas) so they can self guarantee each other  hence reducing being dependent on debit loans. 
 4. Advise banks to create awareness to younger age brackets(20-39 years) to encourage them to engage in income generating activities and reduce dependency on debit income.
 
+**Members**
+
+Eunice 
+Jesse
+Patrick
+Hazra
 
 
 
