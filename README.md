@@ -78,10 +78,10 @@ With the help of clustering, we can understand the variables much better, prompt
 
 **Members**
 
-Eunice 
-Jesse
-Patrick
-Hazra
+1. Eunice 
+2. Jesse
+3. Patrick
+4. Hazra
 
 
 
