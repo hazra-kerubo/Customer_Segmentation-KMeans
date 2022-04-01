@@ -10,7 +10,7 @@ Kotler and Keller define a market segment as a group of customers	who share simi
 The idea behind this project is to deal with real-life grouping of customers to handle: the search for new customers.
 The main idea of this project is to find similarities between people who are currently customers. Then, use this information to advise the bank on how to  find potential customers (people who are not currently customers but have high similarities with people who are).
 
-**Problem Statement
+**Problem Statement **
 
 Difficulty in understanding how the various characteristics of the bank’s customers influence their chances of loan defaulting 
 Gap in understanding how the different characteristics of the customers relate and how the bank can mine information to streamline its marketing strategy to specific customer segments.
@@ -21,11 +21,11 @@ We aim to come up with a machine learning model that can effectively analyze our
 
 **BUSINESS OBJECTIVES
 
-**Overall objective:
+**Overall objective **
 
 Identify potential customers as a result of analyzing customer behavior regarding their income,debt income ratio and their default status.
 
-**Specific objectives: 
+**Specific objectives ** 
 
 Tailor products  and services specific to customers  
 Segmentation helps us better understand our customers and their various needs and wants.
@@ -34,7 +34,7 @@ Address business challenges and opportunities.
 Identify and estimate market opportunities
 Targeted communications.
 
-**Business Success Criteria
+**Business Success Criteria **
 
 Identify potential customers as a result of analyzing customer behavior regarding their income,debt income ratio and their default status
 Building a cluster of customers based on various characteristics.
